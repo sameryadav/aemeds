@@ -1,5 +1,6 @@
 # Your Project's Title...
 Your project's description...
+This project is for Document Based authoring in AEM EDS
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
